@@ -1,5 +1,4 @@
-# Netflix Data analysis by using python data libraries called Numpy and Pandas
-📊 Netflix Movie Data Analysis — Python | EDA & Visualization
+#  Netflix Movie Data Analysis — Python | EDA & Visualization
 
 This project explores a dataset of 9,800+ Netflix movies to uncover trends in genres, popularity, ratings, and release years. The goal is to apply Exploratory Data Analysis (EDA) techniques to help understand content patterns and generate business insights that can support data-driven decisions in a media or entertainment environment.
 
